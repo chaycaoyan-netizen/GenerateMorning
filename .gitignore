@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# 运行时自动生成，无需提交
+work/cache/
+outputs/
